@@ -1,0 +1,14 @@
+baseurl: "https://wdyson.uk"
+languageCode: "en"
+title: "wdyson.uk"
+theme: "charaka-hugo-theme"
+copyright: "&copy; <a href=\"https://wdyson.uk\">William Dyson</a> 2022"
+# disqusShortname: "wdyson-uk"
+# googleAnalytics: ""
+
+params:
+  highlight:
+    style: zenburn
+  social:
+    - url: "https://github.com/willdyson"
+      fa_icon: "fab fa-github"
